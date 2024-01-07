@@ -9,7 +9,7 @@ __________          __   __
 
 # Descripción
 
-Es un repositorio compartido para explorar conceptos de python y reforzar el aprendizaje con notars y ejemplos bien organizados
+Es un repositorio compartido para explorar conceptos de python y reforzar el aprendizaje con notas y ejemplos bien organizados
 
 ## Requisitos
 
@@ -17,7 +17,7 @@ Es un repositorio compartido para explorar conceptos de python y reforzar el apr
 - Entorno de programación reomendado [VS Code](https://code.visualstudio.com/)
   - En el panel lateral izquierdo instalar extención principal de `Python`
 - Para ejecutar algunos de los ejemplos hará falta la instalación de paquetes
-  - Ejemplo de instalación de matplotlib en Command Prompt de Windows
+  - Ejemplo de instalación de `matplotlib` en Command Prompt de Windows
     - `pip install matplotlib`
 - Aunque no sea indispensable, se recomienda comenzar mirando las notas de los `virtual enviroments`
   - [venv en Windows](./theory/windows/win_venv.md)
