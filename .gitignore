@@ -1,0 +1,12 @@
+temp.md
+temp.txt
+temp.py
+
+*__pycache__
+*prpd_pngs*
+*build*
+*dist*
+*.venv
+
+.personal*
+.vscode
